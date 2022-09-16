@@ -6,3 +6,5 @@ Sunflowers - '18 S2 - https://dmoj.ca/problem/ccc18s2
 Flipper - '19 S1 - https://dmoj.ca/problem/ccc19s1
 
 Pretty Average Primes - '19 S2 - https://dmoj.ca/problem/ccc19s2
+
+Note: Most of the phrases displayed (for prompting user for input, filtering data, etc) has been commented out for testing purposes.
