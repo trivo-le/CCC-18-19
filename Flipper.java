@@ -11,14 +11,14 @@ public class Flipper {
 	Scanner input = new Scanner(System.in);	
 		
 	//Prompt for a combination of Horizontal and Vertical flips
-	System.out.println("Please input a possible combination of Horizontal (H) and Vertical (V) flips.");
+	//System.out.println("Please input a possible combination of Horizontal (H) and Vertical (V) flips.");
 	String flipCombo = input.next();
 	
 	// If the length of the combination is invalid
 	while (flipCombo.length()<1 || flipCombo.length()>1000000) {
 		
-	System.out.println("The length of the combination should only be between 1 and 1 000 000 characters.");	
-	System.out.println("Please input a VALID combination.");
+	//System.out.println("The length of the combination should only be between 1 and 1 000 000 characters.");	
+	//System.out.println("Please input a VALID combination.");
 	flipCombo = input.next();	
 		}//while
 	
