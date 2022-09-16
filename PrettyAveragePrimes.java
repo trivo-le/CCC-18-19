@@ -16,9 +16,9 @@ public class PrettyAveragePrimes {
 	int T;
 	
 	do {
-	System.out.println("Please input the number of test cases.");
-	System.out.println("(If this is the second time you are seeing this, then that means you inputed an invalid number.");
-	System.out.println("Please input another number that is between 1 and 1000)");
+	//System.out.println("Please input the number of test cases.");
+	//System.out.println("(If this is the second time you are seeing this, then that means you inputed an invalid number.");
+	//System.out.println("Please input another number that is between 1 and 1000)");
 
 	T = input.nextInt();
 	
@@ -29,7 +29,7 @@ public class PrettyAveragePrimes {
 	
 	for (int index = 0; index<T; index++) {
 		
-		System.out.println("Please input test case #" + (index+1));
+		//System.out.println("Please input test case #" + (index+1));
 		testCases[index] = input.nextInt();
 		}//for
 	
